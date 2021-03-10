@@ -3,3 +3,5 @@
 太魯閣
 
 ![Taroko](image\Taroko.jpg)
+
+Added on master branch
