@@ -4,6 +4,6 @@
 
 Added on develop branch eileen
 
-![Taroko](image\Taroko.jpg)
+![Taroko](image/Taroko.jpg)
 
 Added on master branch
